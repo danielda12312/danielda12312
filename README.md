@@ -15,9 +15,6 @@ I am an undergraduate software engineering student at Kinneret College, with a f
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danielda12312&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danielda12312&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=danielda12312&icon=8&color=8)](https://visitcount.itsvg.in)
 
