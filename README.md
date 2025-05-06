@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am an undergraduate software engineering student at Kinneret College, with a focus on back-end development. I specialize in Java, MySQL, and Spring Boot, and am proficient in C and Assembly. I aspire to build a career as a back-end engineer.
 
 
