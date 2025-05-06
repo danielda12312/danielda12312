@@ -11,7 +11,7 @@ I am an undergraduate software engineering student at Kinneret College, with a f
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=danielda12312&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=danielda12312&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielda12312&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danielda12312&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
