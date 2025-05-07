@@ -1,5 +1,5 @@
-# About Me:
-I’m pursuing a BSc Software Engineering student passionate about cybersecurity and web development. I have a strong foundation in Java, C, and Python, with hands on experience in HTML, CSS, and JavaScript. Currently expanding my skills in Linux, network security, and Git/GitHub. I’m looking to apply my skills in practical environments where I can contribute, collaborate, and continue growing as a developer and security specialist.
+# 💁🏼‍♂️ About Me:
+I’m pursuing a BSc in Software Engineering, i’m passionate about cybersecurity and web development. I have a strong foundation in Java, C, and Python with hands on experience in HTML, CSS, and JavaScript. Currently expanding my skills in Linux, network security, and Git/GitHub. I’m looking to apply my skills in practical environments where I can contribute, collaborate, and continue growing as a developer and security specialist.
 
 
 ## 🌐 Socials:
