@@ -1,5 +1,5 @@
 # About Me:
-I am an undergraduate software engineering student at Kinneret College, with a focus on back-end development. I specialize in Java, MySQL, and Spring Boot, and am proficient in C and Assembly. I aspire to build a career as a back-end engineer.
+I’m pursuing a BSc Software Engineering student passionate about cybersecurity and web development. I have a strong foundation in Java, C, and Python, with hands on experience in HTML, CSS, and JavaScript. Currently expanding my skills in Linux, network security, and Git/GitHub. I’m looking to apply my skills in practical environments where I can contribute, collaborate, and continue growing as a developer and security specialist.
 
 
 ## 🌐 Socials:
